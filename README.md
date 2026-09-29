@@ -22,4 +22,4 @@ src/                      ← provider/studio 模拟脚本（历史档案）
 
 ## 线上访问
 
-`https://quanttide.github.io/quanttide-laboratory-of-course-development/<目录>/<文件>.html`
+`https://quanttide.github.io/quanttide-course-lab/<目录>/<文件>.html`
